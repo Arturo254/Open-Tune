@@ -372,13 +372,15 @@ Agradecemos especialmente a:
 
 ---
 
-### 💡 Proyectos que inspiraron OpenTune
+### 💡 Proyectos que dieron forma a  OpenTune
 
 - **[ArchiveTune](https://github.com/koiverse/ArchiveTune)**  
   Proyecto base e inspiración inicial para muchas de las ideas y funcionalidades que dieron forma a OpenTune.
 
-- **[Vivi Music](https://github.com/vivizzz007/vivi-music)**  
-  Codigo fuente de Canvas, API e inspiracion.
+- **[InnerTune](https://github.com/Malopieds/InnerTune)**  
+  Caracteristicas heredadas. 
+
+  
 
 ---
 
