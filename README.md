@@ -380,7 +380,9 @@ Agradecemos especialmente a:
 - **[InnerTune](https://github.com/Malopieds/InnerTune)**  
   Caracteristicas heredadas. 
 
-  
+
+  - **[Erorr40](https://github.com/Erorr40)**
+  - Mantenimiento de OpenTune
 
 ---
 
